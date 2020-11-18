@@ -4,7 +4,7 @@
 
 org 100h
 
-    Array DB 5 DUP 
+    Array DB 5 DUP(7) 
     
     
 ret
